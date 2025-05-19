@@ -9,8 +9,9 @@ In this assignment, you will practice working with JavaScript objects, arrays, a
 ## deliverable
 A PDF to Canvas with a link to a GitHub repo that includes the following:
 
-file - ```sculptureScript.js``` {name: 26, artist: 20, description: 198, url: 31, alt: 90}
-] solution
+file - ```sculptureScript.js``` {name: 26, artist: 20, description: 198, url: 31, alt: 90} 
+] solution ![image](https://github.com/user-attachments/assets/2ff88a59-e540-4e7f-b9cf-77955fa69f32)
+
 
 file - ```data.js``` [given to you!]
 
