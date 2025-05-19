@@ -39,13 +39,7 @@ file - feel free to include any other files but the above 3 are the minimum acce
 You are given a list of objects called sculptureList that is located in the ```data.js``` file in this directory. Each object in the list has the following structure:
 
 ```javascript
-{
-  name: 'Homenaje a la Neurocirugía',
-  artist: 'Marta Colvin Andrade',
-  description: 'Although Colvin is predominantly known for abstract themes that allude to pre-Hispanic symbols, this gigantic sculpture, an homage to neurosurgery, is one of her most recognizable public art pieces.',
-  url: 'https://i.imgur.com/Mx7dA2Y.jpg',
-  alt: 'A bronze statue of two crossed hands delicately holding a human brain in their fingertips.'  
-}
+
 ```
 Your task is to loop through this list and create a new object called ```sculptureListLengths```. Each key in ```sculptureListLengths``` should match the keys in the original objects, but the values should be the length of the corresponding values in the original objects.
 <hr />
@@ -92,15 +86,7 @@ node sculptureScript.js
 Solution to program
 // copied from git
 const sculptureList = [
- 
-  {
-  name: 'Homenaje a la Neurocirugía',
-  artist: 'Marta Colvin Andrade',
-  description: 'Although Colvin is predominantly known for abstract themes that allude to pre-Hispanic symbols, this gigantic sculpture, an homage to neurosurgery, is one of her most recognizable public art pieces.',
-  url: 'https://i.imgur.com/Mx7dA2Y.jpg',
-  alt: 'A bronze statue of two crossed hands delicately holding a human brain in their fingertips.'  
-}
-];
+
 
 // Empty container for return values
 const sculptureListLengths = {};
