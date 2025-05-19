@@ -9,7 +9,7 @@ In this assignment, you will practice working with JavaScript objects, arrays, a
 ## deliverable
 A PDF to Canvas with a link to a GitHub repo that includes the following:
 
-file - ```sculptureScript.js``` [// copied from git
+file - ```sculptureScript.js``` // copied from git
 const sculptureList = [
   {
   name: 'Homenaje a la Neurocirugía',
@@ -18,7 +18,7 @@ const sculptureList = [
   url: 'https://i.imgur.com/Mx7dA2Y.jpg',
   alt: 'A bronze statue of two crossed hands delicately holding a human brain in their fingertips.'  
 }
-];
+
 
 // Empty container for return values
 const sculptureListLengths = {};
