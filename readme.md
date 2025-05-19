@@ -18,7 +18,7 @@ const sculptureList = [
   url: 'https://i.imgur.com/Mx7dA2Y.jpg',
   alt: 'A bronze statue of two crossed hands delicately holding a human brain in their fingertips.'  
 }
-
+];
 
 // Empty container for return values
 const sculptureListLengths = {};
@@ -38,7 +38,8 @@ for (const sculpture of sculptureList) {
 }
 
 // Displays the results
-console.log(sculptureListLengths);]
+console.log(sculptureListLengths);
+
 
 file - ```data.js``` [given to you!]
 
